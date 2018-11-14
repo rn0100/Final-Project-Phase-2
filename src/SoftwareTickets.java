@@ -1,5 +1,6 @@
 
-public class SoftwareTickets extends Ticket{
+public class SoftwareTickets extends Ticket
+{
 	String opSystem;
 	String type;
 	public SoftwareTickets(String id, String name, String phoneNum, String email, String status, 
